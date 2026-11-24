@@ -1,0 +1,9 @@
+{
+  "name": "Home Library Premium",
+  "short_name": "Home Library",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f3f5f8",
+  "theme_color": "#101a2b",
+  "description": "Offline bilingual personal library manager"
+}
